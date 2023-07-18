@@ -14,7 +14,7 @@ Usage
 ----------
 ###### AdaBOP  
 sh scripts/split_CIFAR100_10_incremental_task.sh  
-sh scripts/split_CIFAR100_20_incremental_task.sh
+sh scripts/split_CIFAR100_20_incremental_task.sh  
 sh subimagenet.sh   
 
 ###### AdaBOP-NS
